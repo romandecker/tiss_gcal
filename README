@@ -1,0 +1,11 @@
+A simple Greasemonkey-script to add links to TISS-dates (class-, exam- and signup-dates).
+
+Requires Greasemonkey (http://greasemonkey.mozdev.org/)
+
+Currently an alpha version.
+
+Installation:
+* drag into Greasemonkey-enabled browser.
+* click 'Install'
+* pretty much done =)
+
