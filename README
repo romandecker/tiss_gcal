@@ -7,6 +7,7 @@ Requires Greasemonkey (http://greasemonkey.mozdev.org/)
 Currently an alpha version.
 
 Installation:
+* Direct install from github: https://github.com/DeX3/tiss_gcal/raw/master/tiss_gcal.user.js
 * drag into Greasemonkey-enabled browser.
 * click 'Install'
 * pretty much done =)
